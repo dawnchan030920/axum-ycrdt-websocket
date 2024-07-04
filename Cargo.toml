@@ -2,6 +2,11 @@
 name = "axum-ycrdt-websocket"
 version = "0.1.0"
 edition = "2021"
+authors = ["Dawn Chan", "xiwenyoumu"]
+description = "Port of the websocket library from yrs-warp to axum"
+license = "MIT"
+repository = "https://github.com/dawnchan030920/axum-ycrdt-websocket"
+keywords = ["axum", "yrs", "crdt", "yjs", "websocket"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
